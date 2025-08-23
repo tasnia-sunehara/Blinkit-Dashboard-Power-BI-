@@ -72,5 +72,3 @@ To deliver a unified view of retail performance that helps:
 * **🍽 Consumer Preferences** – Sales split shows stronger demand for regular fat items.
 * **🗓 Long-Term Planning** – Outlet establishment year trends help evaluate the growth pattern of retail operations.
 
-
-Do you want me to also **create a one-page polished report/PDF version** of this (with proper headings, visuals, and branding), or keep it just as text documentation?
