@@ -1,7 +1,7 @@
 # Blinkit-Dashboard-Power-BI-
 ![Alt Text](https://github.com/tasnia-sunehara/Blinkit-Dashboard-Power-BI-/blob/main/Blinkit.png)
 
-### Short Description / Purpose
+### Short Description
 
 The Blinkit Sales Dashboard is an interactive business intelligence tool designed to monitor retail performance across different outlets, item categories, and locations. It provides decision-makers with insights into sales, outlet performance, and customer ratings, making it easier to identify opportunities, optimize store operations, and improve product strategy.
 
